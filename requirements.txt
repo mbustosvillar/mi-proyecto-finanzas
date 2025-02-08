@@ -1,0 +1,13 @@
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+yfinance
+pypfopt
+numpy
+scipy
+requests
+tensorflow
+fpdf
